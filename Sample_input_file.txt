@@ -1,0 +1,3 @@
+Hello world,whatsup?
+This is a input file used for encryption.
+
